@@ -1,0 +1,2 @@
+# Comparative Transcriptomics Anole Skin Color
+In this repository you will find the code I used to assemble and annotated a skin transcriptome for my focal species (*Anolis distichus*), and perform both differential expression and gene set enrichment analyses in order to identify candidate genes for color and color-pattern in squamates.
