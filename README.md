@@ -27,12 +27,12 @@ Sepa que yo implementé todas las análisis que describo en esta página utiliza
 ## Description
 **EN**
 
-I will organize this repository using GitHub's Wiki. In this way, things will hopefully be easier to follow. Plus, if you're interested in particular steps of the pipeline, you can more easily do so.
+I will organize this repository using GitHub's [Wiki](https://github.com/plhm/anole_color_comparative_transcriptomics/wiki). In this way, things will hopefully be easier to follow. Plus, if you're interested in particular steps of the pipeline, you can more easily do so.
 
 **PT**
 
-Eu decidi organizar esse repositório usand o Wiki que o GitHub disponibiliza. Na minha opinião as coisas ficam mais organizadas assim. Além do que, fica mais fácil de você olhar só a análise que você tá interessad@.
+Eu decidi organizar esse repositório usando [Wiki](https://github.com/plhm/anole_color_comparative_transcriptomics/wiki) que o GitHub disponibiliza. Na minha opinião as coisas ficam mais organizadas assim. Além do que, fica mais fácil de você olhar só a análise que você tá interessad@.
 
 **ES**
 
-Bueno, yo utilizé el Wiki de GitHub para organizar este repositório. Creo que así las cosas se quedan más faciles. Caso no esteas interesado en una análsis, pero si en otra, puedes facilmente utilizar los links para leer solamente lo que te interesa.
+Bueno, yo utilizé el [Wiki](https://github.com/plhm/anole_color_comparative_transcriptomics/wiki) de GitHub para organizar este repositório. Creo que así las cosas se quedan más faciles. Caso no esteas interesado en una análsis, pero si en otra, puedes facilmente utilizar los links para leer solamente lo que te interesa.
